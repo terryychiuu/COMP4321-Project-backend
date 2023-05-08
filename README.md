@@ -8,10 +8,10 @@ Please be noted that this part of the installation guide will only guide you thr
 #### Java
 The project runs with Java 18.
 
-### IDE
+#### IDE
 The project is using IntelliJ IDEA. You can go to https://www.jetbrains.com/idea/, and install it.
 
-### Marven
+#### Marven
 Marven is used for dependency management for this project. 
 
 ## Deploying the Web Scrapper (spider)
