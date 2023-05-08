@@ -2,6 +2,7 @@
 The project is the course project for the HKUST COMP 4321 course. It is a web search engine based on vector space model.
 
 ##Installation Guide
+
 Please be noted that this part of the installation guide will only guide you through the process of installing the backend web server. Please refer to the README.md from the UI repository (folder) for instructions setting up the frontend UI.
 
 ###Prerequisite
