@@ -1,0 +1,132 @@
+Test page
+https://www.cse.ust.hk/~kwtleung/COMP4321/testpage.htm
+2022-06-16 603
+test=1; page=1; crawler=1; get=1; admis=1; cse=1; depart=1; read=1; intern=1; new=1; movi=1; list=1; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/ust_cse.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/news.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/books.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+----------------------------------------
+CSE department of HKUST
+https://www.cse.ust.hk/~kwtleung/COMP4321/ust_cse.htm
+2022-06-16 392
+hkust=1; pg=1; ug=1; main=1; admis=2; cse=1; depart=1; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/ust_cse/PG.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/ust_cse/UG.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/testpage.htm
+----------------------------------------
+News
+https://www.cse.ust.hk/~kwtleung/COMP4321/news.htm
+2022-06-16 384
+main=1; bbc=1; cnn=1; new=3; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/bbc.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/cnn.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/testpage.htm
+----------------------------------------
+books
+https://www.cse.ust.hk/~kwtleung/COMP4321/books.htm
+2022-06-16 601
+classif=1; inform=1; retriev=1; gener=1; data=1; base=1; note=1; relev=1; read=1; main=1; book=1; articl=1; autom=1; keyword=1; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/books/book1.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/books/book2.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/books/book3.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/testpage.htm
+----------------------------------------
+Movie Index Page
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+2022-06-16 19533
+movi=3; list=1; main=2; dinosaur=1; planet=3; tt=1; 2004=1; review=1; danc=2; rise=1; fall=2; ecw=1; nuke=1; 2=9; documentari=1; short=1; favorit=1; brunett=1; return=1; extend=1; bonu=5; materi=5; antarctica=1; hit=1; live=9; belov=1; light=2; aur=1; geeta=1; relat=1; chang=1; clifford=1; save=1; fluffiest=1; friend=1; cleo=1; bloodi=1; valentin=1; mors=1; death=2; neighbour=1; die=1; street=2; stitch=1; gotta=1; meat=1; bat=1; hell=3; mel=1; passion=1; christ=1; teen=1; hunger=1; 1=10; practic=1; nicki=1; doan=1; magic=1; rescu=1; chatterlei=1; conspiraci=1; obses=1; reinvent=1; vision=2; parad=1; servic=1; grill=1; love=2; letter=1; reindeer=1; bad=1; beauti=4; leagu=1; complet=1; truth=1; yank=1; veggietal=1; weather=1; underground=1; bonesett=1; marri=1; iii=1; libertin=1; night=4; empir=2; air=1; dive=1; law=1; persh=1; hotel=1; queen=1; journal=1; zim=1; armageddon=1; 2003=1; 24=1; form=1; strong=1; home=1; stranger=1; 50th=1; anniversari=1; doubl=2; featur=1; season=12; kill=2; imax=1; frogmen=1; powerpuff=1; girl=1; li=2; monkei=1; bomb=1; lodoss=1; chronicl=1; heroic=1; knight=1; command=2; lemon=1; drop=1; kid=1; royal=1; rumbl=1; 2005=1; cyberslam=1; concert=2; herlinda=1; son=1; space=2; station=1; martha=1; battl=1; fishi=1; stori=2; iron=1; bridg=1; shaman=1; princess=2; musiqu=1; 6=1; race=1; rai=1; vaughan=1; montreux=1; 1982=1; 1985=1; ey=1; vichi=1; journei=1; tank=1; polic=1; peter=1; murder=1; advert=1; cub=1; stock=1; blood=4; ii=2; world=2; africa=1; dirti=1; wemblei=1; hypercub=1; fool=1; effect=1; twin=1; vampir=1; dry=1; land=2; beyond=3; la=1; lost=1; teacher=1; set=1; canari=1; natur=2; approach=1; wild=1; merci=1; tricki=1; master=1; game=1; wizard=1; alchemi=1; handkerchief=1; women=1; avocado=1; jungl=1; sleep=1; dog=2; lie=1; novemb=1; edward=1; murrow=1; collec=1; nightmar=1; littl=2; yoga=1; warrior=1; koji=1; strongest=1; wive=1; white=2; knuckl=1; extrem=1; killer=2; fortun=1; clees=1; irrit=1; peopl=1; band=1; sunset=1; strip=1; choru=1; bandit=1; 3=1; network=1; 9=1; creepi=1; cartoon=1; caper=1; brigad=1; histori=1; channel=1; unearth=1; legend=2; gui=1; bound=1; shot=1; plai=1; derang=1; tae=1; cardio=1; circuit=1; action=2; begin=1; miss=1; braddock=1; smoochi=1; bird=1; sequel=1; sand=1; unit=1; soultak=1; fear=1; satan=1; arliss=1; freedom=1; step=1; red=1; deer=1; hunter=3; roman=1; bucket=1; illustr=1; swimsuit=1; 1997=1; boyz=1; war=1; civil=1; liberti=1; ultim=1; fat=1; burner=1; sing=1; song=3; six=1; pant=1; deep=1; 5=1; agronomist=1; rush=1; beast=1; 2000=1; festiv=1; bibl=1; wilder=1; cookout=1; portrait=1; serial=1; carol=1; burnett=1; stopper=1; dai=2; grow=1; psychic=1; iraq=1; anatomi=1; winsor=1; mccai=1; star=1; crazi=1; blossom=1; remain=1; springtim=1; roo=1; northwest=1; genesi=1; evangelion=1; dogz=1; boston=1; strangler=1; aw=1; giant=1; shadow=1; wood=1; opera=1; hunchback=1; notr=1; dame=1; samurai=1; web=1; sade=1; clock=1; ride=1; tournam=1; saga=1; jeff=1; corwin=1; costa=1; rica=1; amazon=1; futuro=1; final=1; countdown=1; 4=1; amigo=1; yakuza=1; tale=1; harvest=1; mcmxc=1; maud=1; wall=1; talk=1; own=1; even=1; chri=1; kattan=1; aveng=1; kumar=1; castl=1; heat=1; mountain=1; gilda=1; radner=1; john=2; lennon=2; call=1; hebrew=1; hammer=1; pick=1; spot=1; pilat=1; diari=1; zero=1; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/testpage.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/1.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/2.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/3.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/4.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/5.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/6.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/7.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/8.html
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/9.html
+----------------------------------------
+PG
+https://www.cse.ust.hk/~kwtleung/COMP4321/ust_cse/PG.htm
+2022-06-16 3267
+notwithstand=1; newli=1; test=3; undergo=1; assess=1; enhanc=1; research=1; admis=5; depart=1; form=1; pg=1; base=1; program=7; applic=4; postgradu=9; requir=5; time=2; enter=1; degre=2; comput=8; scienc=7; engin=1; student=6; admit=5; demonstr=3; compet=4; relat=1; follow=1; core=2; organ=1; principl=2; languag=4; system=1; design=1; analysi=1; algorithm=1; phd=2; theori=1; apprais=1; formal=1; background=1; deem=2; inadequ=1; provision=1; basi=1; remedi=1; cours=1; prescrib=1; studi=2; committe=1; obtain=1; grade=1; addition=1; stipul=1; individu=1; offer=1; defici=1; concurr=1; offici=1; certifi=1; academ=2; transcript=1; undergradu=1; result=4; subject=2; graduat=2; record=3; letter=1; submit=3; english=5; profici=4; statem=1; plan=1; complet=1; msc=1; mphil=1; standard=1; examin=1; help=1; determin=1; suitabl=1; supplementari=1; suffici=1; previou=1; institu=1; primari=1; instruc=1; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/ust_cse.htm
+----------------------------------------
+UG
+https://www.cse.ust.hk/~kwtleung/COMP4321/ust_cse/UG.htm
+2022-06-16 4070
+learn=1; beng=3; depart=4; provid=3; broad=1; educ=1; special=2; focus=1; multimedia=1; hong=2; kong=2; closer=1; electr=3; hkust=4; electron=3; csie=2; uniqu=1; emphasi=2; satisfi=1; typic=1; carefulli=1; specif=2; jointli=1; spectrum=1; view=1; elec=1; shift=1; move=1; suit=1; inform=3; job=1; market=1; opportun=1; besid=1; regular=1; enjoi=1; includ=3; oversea=2; exchang=1; pai=1; tuition=1; outsid=1; industri=1; train=3; modul=1; winter=1; summer=1; break=1; intens=1; written=1; convers=1; present=1; skill=1; project=1; guidanc=1; faculti=1; third=1; helper=1; choos=2; pursu=1; immedi=1; stai=1; abroad=1; top=1; stanford=1; univers=4; southern=1; texa=1; relat=3; illinoi=1; found=1; excel=1; disciplin=1; look=1; advantag=1; comprehens=1; solid=1; fundament=1; emerg=1; inquiri=1; advic=1; assist=1; choic=1; entranc=1; matter=1; welcom=1; contact=1; practic=1; final=1; complet=1; program=11; applic=1; postgradu=1; requir=2; degre=2; comput=12; scienc=6; engin=2; student=7; follow=1; design=1; cours=1; studi=5; offer=3; undergradu=2; graduat=4; english=1; mphil=1; help=1; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/ust_cse.htm
+----------------------------------------
+BBC news
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/bbc.htm
+2022-06-16 499
+commit=1; west=1; ham=1; blackburn=1; new=2; bbc=1; bird=1; project=1; fifth=1; nest=1; rare=1; mp=1; urg=1; bt=1; goonhilli=1; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/bbc1.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/bbc2.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/bbc3.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/news.htm
+----------------------------------------
+CNN news
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/cnn.htm
+2022-06-16 448
+sauerkraut=1; capit=1; cnn=1; sweet=1; accordion=1; new=2; warm=1; caus=1; econom=1; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/cnn1.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/news/cnn2.htm
+https://www.cse.ust.hk/~kwtleung/COMP4321/news.htm
+----------------------------------------
+book1
+https://www.cse.ust.hk/~kwtleung/COMP4321/books/book1.htm
+2022-06-16 1617
+familiar=1; idea=1; us=1; consid=1; devic=1; research=1; control=1; thesauru=1; descriptor=1; provid=1; simpl=1; class=1; docum=1; syntact=1; ratio=1; list=1; mean=2; characteris=1; justif=1; am=1; unawar=1; difficulti=1; do=1; atten=1; main=2; devot=1; controversi=1; rage=1; simpli=1; purpos=1; reason=1; book=2; view=1; autom=1; keyword=2; classif=1; inform=3; retriev=4; relat=2; choic=1; primarili=1; discus=1; topic=1; broaden=1; surround=1; context=1; attempt=1; justifi=1; account=1; elementari=1; descrip=3; instanc=1; chapter=2; assum=1; reader=1; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/books.htm
+----------------------------------------
+book2
+https://www.cse.ust.hk/~kwtleung/COMP4321/books/book2.htm
+2022-06-16 2084
+9=2; consid=4; research=1; continu=2; book=1; coverag=2; inaugur=1; volum=2; william=1; updat=1; inform=3; consist=1; retriev=3; gener=3; 1974=1; data=11; prepar=1; base=8; accord=1; initi=1; defini=1; includ=1; boundari=1; contain=1; bibliograph=3; index=1; storag=2; constraint=1; preclud=1; concern=2; numer=1; nonbibliograph=1; chemic=2; et=1; abstract=1; registri=2; elem=1; common=1; paper=1; ca=1; applic=1; regard=1; progress=1; build=1; textual=1; inc=1; materi=2; report=1; miniatur=1; hardwar=1; shipboard=1; environ=1; scope=1; public=1; via=1; produc=1; organ=1; system=2; choic=1; servic=1; collec=1; record=1; primarili=2; chapter=1; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/books.htm
+----------------------------------------
+book3
+https://www.cse.ust.hk/~kwtleung/COMP4321/books/book3.htm
+2022-06-16 1994
+provid=1; docum=2; mean=1; book=1; shift=1; inform=2; retriev=1; note=1; relev=6; defini=1; numer=1; report=2; degre=1; grow=1; recent=1; deal=1; advanc=1; doctrin=2; system=1; evalu=1; design=1; term=4; percentag=1; agreem=2; doubt=1; fix=1; formal=1; relationship=1; exist=1; recal=2; perform=1; literatur=1; frankli=1; notion=1; mathemat=4; formul=1; presum=1; measur=1; characterist=1; phenomenon=1; forth=1; admittedli=1; individu=1; equat=1; valu=1; ancient=1; parallel=1; legisl=1; alic=1; user=1; singl=1; cover=1; distinct=1; subject=2; especi=1; usag=1; littl=1; secur=1; accept=1; attribut=1; valid=1; repres=1; discus=1; seriou=1; situat=1; mere=1; careless=1; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/books.htm
+----------------------------------------
+Dinosaur Planet (2003)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/1.html
+2022-06-16 3605
+yield=1; resultsimdb=1; titlesearcha=1; fox=2; adventur=1; usa=2; uk=1; 17=1; plastic=1; provid=1; toi=1; island=3; special=3; simul=1; movi=3; patagonia=1; dragon=1; im=1; reich=1; der=1; germanysugges=1; improv=1; resultsyour=1; origin=2; morelik=1; girl=1; prefer=1; titl=4; match=3; amongst=1; alternativetitl=1; variou=1; region=1; particular=1; episod=2; link=1; areonli=1; avail=1; adult=1; searchestitlesthes=1; 1000=1; trailer=1; resumecopyright=1; internet=1; databas=1; privaci=1; polici=1; index=2; dinosaur=12; planet=2; 2=1; return=1; choos=1; follow=2; chang=1; found=1; giant=4; 1=1; addition=2; user=1; servic=1; imdb=2; titlesearchnow=1; newsmi=1; boardsshowtim=1; ticketsimdbproimdb=1; registerhom=1; tv=3; episodesmi=1; moviesnamescompanieskeywordscharactersquotesbiosplotsmor=1; search=10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+----------------------------------------
+Isle of Man TT 2004 Review (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/2.html
+2022-06-16 2868
+yield=1; resultsimdb=1; titlesearcha=1; uk=1; provid=1; special=1; movi=2; season=3; improv=1; resultsyour=1; origin=2; morelik=1; prefer=1; titl=4; match=3; amongst=1; alternativetitl=1; unit=1; variou=1; region=1; particular=1; episod=2; link=1; areonli=1; avail=1; adult=1; searchestitlesthes=1; 1000=1; trailer=1; resumecopyright=1; internet=1; databas=1; privaci=1; polici=1; index=2; manchest=1; champion=1; tt=6; box=1; 2004=6; untouch=1; review=5; return=1; choos=1; follow=2; chang=1; found=1; addition=2; offici=1; user=1; servic=1; 4=1; imdb=2; titlesearchnow=1; newsmi=1; boardsshowtim=1; ticketsimdbproimdb=1; registerhom=1; tv=3; episodesmi=1; moviesnamescompanieskeywordscharactersquotesbiosplotsmor=1; search=10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+----------------------------------------
+Character (1997)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/3.html
+2022-06-16 4008
+yield=1; resultsimdb=1; titlesearcha=1; provid=1; special=1; movi=2; improv=1; resultsyour=1; origin=2; main=1; morelik=1; prefer=1; titl=4; match=3; amongst=1; alternativetitl=1; variou=1; heroic=1; region=1; particular=1; episod=2; link=1; areonli=1; avail=1; adult=1; searchestitlesthes=1; 1000=1; trailer=1; resumecopyright=1; internet=1; databas=1; privaci=1; polici=1; index=2; charact=19; 31=1; bodi=1; germani=1; woo=1; juen=1; ji=1; ying=1; hung=1; boon=1; sik=1; dehaven=1; ey=1; third=1; return=1; usacharact=1; insid=1; choos=1; birth=1; real=1; reveal=4; ear=1; woman=2; judg=1; desper=1; nose=1; follow=2; 10th=1; mouth=1; chang=1; found=1; road=1; unforgett=1; told=1; carrol=1; design=1; housekeep=1; muert=1; del=1; tercer=1; tripl=1; death=1; central=1; la=1; lost=1; studi=3; 1=1; addition=2; user=1; servic=1; love=1; english=1; imdb=2; titlesearchnow=1; newsmi=1; boardsshowtim=1; ticketsimdbproimdb=1; registerhom=1; tv=3; episodesmi=1; moviesnamescompanieskeywordscharactersquotesbiosplotsmor=1; search=10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+----------------------------------------
+Paula Abdul's Get Up and Dance (1994)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/4.html
+2022-06-16 2820
+yield=1; resultsimdb=1; titlesearcha=1; usa=1; provid=1; special=1; movi=2; cardio=1; improv=1; resultsyour=1; origin=2; morelik=1; prefer=1; titl=4; match=3; amongst=1; alternativetitl=1; variou=1; region=1; particular=1; episod=2; link=1; areonli=1; avail=1; adult=1; searchestitlesthes=1; 1000=1; trailer=1; resumecopyright=1; internet=1; databas=1; privaci=1; polici=1; index=2; danc=3; 2=1; return=1; choos=1; follow=2; chang=1; found=1; lesson=1; 1=1; addition=2; user=1; servic=1; imdb=2; titlesearchnow=1; newsmi=1; boardsshowtim=1; ticketsimdbproimdb=1; registerhom=1; tv=3; episodesmi=1; moviesnamescompanieskeywordscharactersquotesbiosplotsmor=1; search=10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+----------------------------------------
+The Rise and Fall of ECW (2004)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/5.html
+2022-06-16 3928
+yield=1; resultsimdb=1; titlesearcha=1; usa=1; uk=1; provid=1; special=1; movi=3; improv=1; resultsyour=1; origin=2; morelik=1; prefer=1; titl=4; match=3; amongst=1; alternativetitl=1; unit=1; variou=1; region=1; particular=1; episod=2; link=1; areonli=1; avail=1; adult=1; searchestitlesthes=1; 1000=1; trailer=1; resumecopyright=1; internet=1; databas=1; privaci=1; polici=1; index=2; champion=1; rise=25; fall=27; ecw=2; return=2; choos=1; follow=2; world=2; chang=1; found=1; 19=1; slasher=1; film=1; orlean=1; theatr=1; trade=1; american=4; icon=2; seen=1; sexual=1; 1=1; position=1; commun=1; addition=2; jim=1; crow=1; bar=1; mitzvah=1; emce=1; heidi=2; fleiss=1; robert=1; user=1; campeau=1; fmx=1; weari=1; servic=1; willi=1; social=1; busi=1; littl=1; cultur=1; english=1; montreal=1; mcdoo=1; wellington=1; voic=1; imdb=2; titlesearchnow=1; newsmi=1; boardsshowtim=1; ticketsimdbproimdb=1; registerhom=1; tv=3; episodesmi=1; moviesnamescompanieskeywordscharactersquotesbiosplotsmor=1; search=10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+----------------------------------------
+Sick (1997)
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie/6.html
+2022-06-16 5243
+yield=1; resultsimdb=1; titlesearcha=1; usa=4; get=2; provid=1; special=1; movi=2; improv=1; resultsyour=1; origin=2; morelik=1; prefer=1; titl=4; match=3; amongst=1; alternativetitl=1; variou=1; region=1; particular=1; episod=2; link=1; areonli=1; avail=1; adult=1; searchestitlesthes=1; 1000=1; trailer=1; resumecopyright=1; internet=1; databas=1; privaci=1; polici=1; index=2; 2=1; festiv=5; return=1; choos=1; serial=1; chang=1; found=1; friend=1; look=1; death=1; christ=1; servic=1; love=3; 4=1; sick=38; 63=1; life=1; bob=1; supermasochist=1; twist=6; ahava=1; gimel=1; incred=1; tortur=1; heritag=1; orgi=1; bolnavicioas=1; figur=1; usamedico=1; della=1; il=1; insan=1; call=2; clown=1; bolnav=1; hous=1; kitten=2; hilari=1; anim=4; jingl=1; gift=1; devil=1; 1998=1; tire=2; sea=1; bu=1; excursionist=1; poor=1; ab=1; babi=1; fund=1; head=1; car=1; caught=1; act=1; 7=1; toon=2; silli=1; larri=1; volum=2; sailor=1; mind=1; sidnei=1; stockrid=1; doctor=2; transit=1; agnost=1; gorilla=1; biscuit=1; heal=1; bacchu=1; bastard=1; east=1; bug=1; lover=1; stori=1; puppi=1; sharo=2; mara=1; bolniyat=1; time=1; follow=2; world=1; addition=2; women=1; user=1; littl=1; white=1; imdb=2; killer=1; titlesearchnow=1; newsmi=1; boardsshowtim=1; ticketsimdbproimdb=1; peopl=1; registerhom=1; tv=3; episodesmi=1; moviesnamescompanieskeywordscharactersquotesbiosplotsmor=1; search=10; 
+https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm
+----------------------------------------
