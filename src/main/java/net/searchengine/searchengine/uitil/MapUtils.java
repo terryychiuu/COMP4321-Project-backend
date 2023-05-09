@@ -33,7 +33,7 @@ public class MapUtils {
 
         return topFrequencies;
     }
-
+    // Unused function
 //    public static Map<Integer, Integer> combineMapsByAggregate(Map<Integer, Integer> map1, Map<Integer, Integer> map2) {
 //        Map<Integer, Integer> combinedMap = new HashMap<>(map1);
 //
@@ -65,6 +65,7 @@ public class MapUtils {
         return frequencyMap;
     }
 
+    // Unused function
 //    public static <K, V extends Comparable<? super V>> Map<K, V> sortByValue(Map<K, V> map) {
 //        List<Map.Entry<K, V>> list = new ArrayList<>(map.entrySet());
 //        list.sort(Map.Entry.comparingByValue());

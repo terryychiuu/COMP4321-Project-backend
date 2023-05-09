@@ -28,37 +28,6 @@ public class Spider {
 //        this.maxDepth = maxDepth;
     }
 
-//    public static HashSet<String> visit (String s) {
-//        System.out.println("Visiting " + s);
-//        HashSet<String> strings = new HashSet<>();
-//        try {
-//            Parser parser = new Parser(s);
-//            NodeList list = parser.parse(new LinkStringFilter(""));
-//            for (int i=0; i<list.size(); i++) {
-//                String st = ((LinkTag)(list.elementAt(i))).extractLink();
-//                strings.add(st);
-//            }
-//            return strings;
-//        } catch (ParserException e) {
-////            e.printStackTrace();
-//            return new HashSet<>();
-//        }
-//    }
-//
-//    public static HashSet<String> visit (String url, int depth) {
-//        HashSet<String> strings = new HashSet<>();
-//        if (depth == 0) {
-//            strings.add(url);
-//            return strings;
-//        }
-//        else {
-//            HashSet<String> strings1 = visit(url);
-//            for (String string:strings1) strings.addAll(visit(string,depth-1));
-//        }
-//        strings.add(url);
-//        return strings;
-//    }
-
     public void visit() {
 
         if (tasks.isEmpty() || !(doneUrls.size() < maxPages)) return;
@@ -82,14 +51,7 @@ public class Spider {
                 tasks.add(links.elementAt(i));
             }
 
-            if (indexer.isPageOutdated(lastModificationDate)) {
-                Vector<String> words = crawler.extractWords().stream()
-                        .filter(NLPUtils::stopwordFilter)
-                        .map(NLPUtils::stemFilter)
-//                        .filter(NLPUtils::isAlphaNumeric)
-                        .collect(Collectors.toCollection(Vector::new));
-
-
+            if (!indexer.isPageUpToDate(lastModificationDate)) {
 
                 List title = crawler.extractTitle();    // return [String, Vector<String>]
                 if (title != null) {
@@ -101,6 +63,12 @@ public class Spider {
                             .collect(Collectors.toCollection(Vector::new));
                     System.out.println("Title: " + strTitle);
                     System.out.println("Title: " + tokenizedTitle);
+
+                    Vector<String> words = crawler.extractWords().stream()
+                            .filter(NLPUtils::stopwordFilter)
+                            .map(NLPUtils::stemFilter)
+//                        .filter(NLPUtils::isAlphaNumeric)
+                            .collect(Collectors.toCollection(Vector::new));
 
 
                     int pageSize = crawler.getPageSize();
@@ -114,15 +82,6 @@ public class Spider {
                         indexer.insertParentChildPageForwardIndex(link);
                         indexer.insertChildParentPageForwardIndex(link);
                     }
-
-//                    indexer.printAllPageProperties();
-
-//                    System.out.println("Words \t" + words);
-//                    System.out.println("Links \t" + links);
-
-//                    indexer.printAllWordsMappingIndex();
-//                    indexer.printAllWordsInvertedIndex();
-//                    indexer.printParentPageForwardIndex();
                 }
 
 

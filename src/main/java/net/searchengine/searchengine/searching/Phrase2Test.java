@@ -71,6 +71,7 @@ public class Phrase2Test {
                 System.out.println(stringBuilder);
 
                 Vector<Integer> childPages = parentChildPageForwardIndex.getValues(pageId);
+                if (childPages == null) childPages = new Vector<>();
                 System.out.println("Child Link:");
                 int i = 0;
                 for (int childPage : childPages) {
@@ -80,6 +81,7 @@ public class Phrase2Test {
                 }
 
                 Vector<Integer> parentPages = childParentPageForwardIndex.getValues(pageId);
+                if (parentPages == null) parentPages = new Vector<>();
                 System.out.println("Parent Link:");
                 i = 0;
                 for (int parentPage : parentPages) {

@@ -59,16 +59,6 @@ public class Crawler
 
     public String getLastModificationDate() throws IOException{
 
-//        URL u = new URL(url);
-//        URLConnection linkConnect = u.openConnection();
-//
-//        Date date = new Date(linkConnect.getLastModified());
-//        //SimpleDateFormat ft = new SimpleDateFormat("yyyy.MM.dd");
-//        if(date == null)
-//            date.setTime(linkConnect.getDate());
-//        else if(date.toString().equals("1970-01-01"))
-//            date.setTime(linkConnect.getDate());
-
         // Wed, 29 Mar 2023 09:41:52 GMT
         URL crawlURL = new URL(url);
         Connection.Response returns = getResponse(crawlURL);
@@ -84,13 +74,6 @@ public class Crawler
     }
 
     public Parser getParser() throws ParserException{
-//        try{
-//            return (new Parser(url));
-//        }
-//        catch(ParserException e){
-//            System.out.println("Cannot access: " + url + "\nError: " + e);
-//        }
-//        return null;
         return (new Parser(url));
     }
 
@@ -126,19 +109,6 @@ public class Crawler
     }
 
     public Vector<String> extractWords() throws ParserException, IOException {
-//        Vector<String> words = new Vector<>();
-//
-//        StringBean sb = new StringBean();
-//        sb.setLinks(false);
-//
-//        sb.setURL(url);
-//
-//        String text = sb.getStrings();
-//        StringTokenizer st = new StringTokenizer(text);
-//        while (st.hasMoreTokens()) {
-//            words.add(st.nextToken());
-//        }
-//        return words;
 
         Parser parser = getParser();
         if (parser == null) return null;
@@ -157,7 +127,6 @@ public class Crawler
 
     public Vector<String> extractLinks() throws ParserException {
         // extract links in url and return them
-        // ADD YOUR CODES HERE
         Vector<String> links = new Vector<>();
 
         LinkBean lb = new LinkBean();

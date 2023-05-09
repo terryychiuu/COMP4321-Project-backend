@@ -10,7 +10,7 @@ public class Main {
         String link1 = "https://www.cse.ust.hk/~kwtleung/COMP4321/testpage.htm";
         String link3 = "https://www.cse.ust.hk/~kwtleung/COMP4321/Movie.htm";
 
-        Spider spider = new Spider(link1, 10, 1);
+        Spider spider = new Spider(link1, 300, 1);
         spider.visit();
 
         Indexer indexer = new Indexer();

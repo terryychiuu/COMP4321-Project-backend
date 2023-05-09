@@ -155,13 +155,17 @@ public class Indexer {
         childParentPageForwardIndex.uniqueAddEntry(childPageId, pageId);
     }
 
-    public boolean isPageOutdated(String lastModificationDate) throws IOException {
+    public boolean isPageUpToDate(String lastModificationDate) throws IOException {
         Properties properties = urlPageProperties.getProperties(pageId);
-        if(properties == null) return true;
+        if(properties == null) return false;
 
-        if (lastModificationDate.equals(properties.getLastModificationDate()))
+        if (lastModificationDate.equals(properties.getLastModificationDate())) {
+            return true;
+        }
+        else {
+            parentChildPageForwardIndex.clear(pageId);
             return false;
-        else return true;
+        }
     }
 
     public void insertPageSimilarityForwardIndex() throws IOException {
@@ -214,9 +218,6 @@ public class Indexer {
                 int termFreq = posting.wordPositions.size();
 
                 double termWeight = calculateTermWeight(termFreq, numOfDocuments, docFreq, maxTermFreq);
-//                System.out.println(">>>>  "+wordString);
-//                System.out.println(">>>>  termFreq "+termFreq+" numOfDocuments "+numOfDocuments+" docFreq "+docFreq+" maxTermFreq "+maxTermFreq +">>> "+termWeight);
-
                 Map<String, Double> termVector = pageTermVector.get(pageId);
                 if (termVector == null) {
                     termVector = new HashMap<>();
@@ -226,16 +227,6 @@ public class Indexer {
                 pageTermVector.put(pageId, termVector);
             };
         }
-
-        //
-//        System.out.println("___pageTermVector");
-//        pageTermVector.forEach((k,v) -> {
-//            System.out.println(k+": ");
-//            v.forEach((x,y)->{
-//                System.out.println(x+": "+y);
-//            });
-//        });
-        //
 
         return pageTermVector;
     }
