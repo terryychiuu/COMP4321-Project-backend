@@ -47,11 +47,11 @@ public class Spider {
 
             Vector<String> links = crawler.extractLinks();
 
-            for (int i = 0; i < links.size(); i++) {
-                tasks.add(links.elementAt(i));
-            }
-
             if (!indexer.isPageUpToDate(lastModificationDate)) {
+
+                for (int i = 0; i < links.size(); i++) {
+                    tasks.add(links.elementAt(i));
+                }
 
                 List title = crawler.extractTitle();    // return [String, Vector<String>]
                 if (title != null) {
