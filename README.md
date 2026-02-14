@@ -38,3 +38,6 @@ The result will output to spider_result.txt
 This is the frontend component of the COMP4321 Project. The backend is available at:
 - [COMP4321-Project-frontend](https://github.com/terryychiuu/COMP4321-Project-frontend)
 
+## Project Demo
+- [Watch the demo on YouTube](https://youtu.be/VRCBY92hB9c)
+
