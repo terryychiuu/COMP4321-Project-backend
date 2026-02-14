@@ -33,3 +33,8 @@ You can set the path, including `DATABASE_PATH`, `RESULT_PATH`, `PHRASE_2_RESULT
 
 The result will output to spider_result.txt 
 
+## Related Repositories
+
+This is the frontend component of the COMP4321 Project. The backend is available at:
+- [COMP4321-Project-frontend](https://github.com/terryychiuu/COMP4321-Project-frontend)
+
