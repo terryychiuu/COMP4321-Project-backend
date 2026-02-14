@@ -1,10 +1,12 @@
-# COMP4321-Project-backend
+# COMP4321 Web Search Engine (backend)
 
 **Solo project** — Course project for HKUST COMP 4321. A web search engine with three main parts: **crawler**, **retrieval system**, and **search engine website**.
 
 - **Crawler**: Recursively fetches and parses textual data from the web and persists it for indexing.
 - **Retrieval**: Applies TF×IDF, Google’s PageRank, and weighted search to user queries and parsed data, returning the top 50 results.
 - **Website**: User-friendly interface to access the search engine.
+
+![](reference/Screenshot.png)
 
 ### Highlights
 
@@ -25,7 +27,7 @@ The project runs with Java 18.
 The project is using IntelliJ IDEA. You can go to https://www.jetbrains.com/idea/, and install it.
 
 #### Marven
-Marven is used for dependency management for this project. 
+Marven is used for dependency management for this project.
 
 ## Deploying the Web Scrapper (spider)
 1. open `Main.java` in comp4321-Project
@@ -44,7 +46,7 @@ You can set the path, including `DATABASE_PATH`, `RESULT_PATH`, `PHRASE_2_RESULT
 ### Phase 1 Test Program
 1. To retrieve the result from the db, open Phase1Test.java and right click "run"
 
-The result will output to spider_result.txt 
+The result will output to spider_result.txt
 
 ## Related Repositories
 
